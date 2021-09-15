@@ -1,8 +1,0 @@
-[PersonTests]
-hash = "sha1-c16187339a4a36c1ee2256df86ffdffe0f3aa697"
-one = "{{.Name}} hat {{.Count}} Test."
-other = "{{.Name}} hat {{.Count}} Tests."
-
-[SecondTest]
-hash = "sha1-2557ea75d3aacd6621d0d3a44237da5253cc38ed"
-other = "Donau"
