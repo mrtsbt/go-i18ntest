@@ -1,0 +1,5 @@
+SecondTest = "Danube"
+
+[PersonTests]
+one = "{{.Name}} has {{.Count}} test."
+other = "{{.Name}} has {{.Count}} tests."
