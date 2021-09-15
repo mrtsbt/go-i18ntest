@@ -1,0 +1,7 @@
+{
+  "PersonTests": {
+    "hash": "sha1-c16187339a4a36c1ee2256df86ffdffe0f3aa697",
+    "one": "{{.Name}} hat {{.Count}} Test.",
+    "other": "{{.Name}} hat {{.Count}} Tests."
+  }
+}
